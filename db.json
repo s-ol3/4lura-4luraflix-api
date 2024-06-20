@@ -4,6 +4,7 @@
             "id": 1,
             
             "titulo": "xxxxxxxxxxxxx",
+            "equipo": "Front End",
             "capa": "https://raw.githubusercontent.com/s-ol3/4lura-4luraflix/main/public/img/front1.jpg",
             "link": "https://www.youtube.com/embed/PztCEdIJITY"
         },
@@ -11,6 +12,7 @@
             "id": 2,
             
             "titulo": "xxxxxxxxxxxxx",
+            "equipo": "Front End",
             "capa": "https://raw.githubusercontent.com/s-ol3/4lura-4luraflix/main/public/img/front2.jpg",
             "link": "https://www.youtube.com/embed/GJfOSoaXk4s"
         },
@@ -18,6 +20,7 @@
             "id": 3,
             
             "titulo": "xxxxxxxxxxxxx",
+            "equipo": "Front End",
             "capa": "https://raw.githubusercontent.com/s-ol3/4lura-4luraflix/main/public/img/front3.jpg",
             "link": "https://www.youtube.com/embed/rpvrLaBQwgg"
         },
@@ -25,6 +28,7 @@
             "id": 4,
             
             "titulo": "xxxxxxxxxxxxx",
+            "equipo": "Back End",
             "capa": "https://raw.githubusercontent.com/s-ol3/4lura-4luraflix/main/public/img/back1.jpg",
             "link": "https://www.youtube.com/embed/t-iqt1b2qqk"
         },
@@ -32,6 +36,7 @@
             "id": 5,
             
             "titulo": "xxxxxxxxxxxxx",
+            "equipo": "Back End",
             "capa": "https://raw.githubusercontent.com/s-ol3/4lura-4luraflix/main/public/img/back2.jpg",
             "link": "https://www.youtube.com/embed/cLLKVd5CNLc"
         },
@@ -39,6 +44,7 @@
             "id": 6,
             
             "titulo": "xxxxxxxxxxxxx",
+            "equipo": "Back End",
             "capa": "https://raw.githubusercontent.com/s-ol3/4lura-4luraflix/main/public/img/back3.jpg",
             "link": "https://www.youtube.com/embed/EoPvlE85XAQ"
         },
@@ -46,6 +52,7 @@
             "id": 7,
             
             "titulo": "xxxxxxxxxxxxx",
+            "equipo": "Innovación y Gestión",
             "capa": "https://raw.githubusercontent.com/s-ol3/4lura-4luraflix/main/public/img/soft1.jpg",
             "link": "https://www.youtube.com/embed/vhwspfvI52k"
         },
@@ -53,6 +60,7 @@
             "id": 8,
             
             "titulo": "xxxxxxxxxxxxx",
+            "equipo": "Innovación y Gestión",
             "capa": "https://raw.githubusercontent.com/s-ol3/4lura-4luraflix/main/public/img/soft2.jpg",
             "link": "https://www.youtube.com/embed/YhR7Zp8NUzE"
         },
@@ -60,6 +68,7 @@
             "id": 9,
             
             "titulo": "xxxxxxxxxxxxx",
+            "equipo": "Innovación y Gestión",
             "capa": "https://raw.githubusercontent.com/s-ol3/4lura-4luraflix/main/public/img/soft3.jpg",
             "link": "https://www.youtube.com/embed/6N3OkLCfK-0"
         }
