@@ -1,0 +1,67 @@
+{
+    "videos": [
+        {
+            "id": 1,
+            "equipo": "Front End",
+            "titulo": "xxxxxxxxxxxxx",
+            "capa": "https://github.com/s-ol3/4lura-4luraflix/blob/main/public/img/front1.jpg",
+            "link": "https://www.youtube.com/watch?v=PztCEdIJITY"
+        },
+        {
+            "id": 2,
+            "equipo": "Front End",
+            "titulo": "xxxxxxxxxxxxx",
+            "capa": "https://github.com/s-ol3/4lura-4luraflix/blob/main/public/img/front2.jpg",
+            "link": "https://www.youtube.com/watch?v=GJfOSoaXk4s"
+        },
+        {
+            "id": 3,
+            "equipo": "Front End",
+            "titulo": "xxxxxxxxxxxxx",
+            "capa": "https://github.com/s-ol3/4lura-4luraflix/blob/main/public/img/front3.jpg",
+            "link": "https://www.youtube.com/watch?v=rpvrLaBQwgg"
+        },
+        {
+            "id": 4,
+            "equipo": "Back End",
+            "titulo": "xxxxxxxxxxxxx",
+            "capa": "https://github.com/s-ol3/4lura-4luraflix/blob/main/public/img/back1.jpg",
+            "link": "https://www.youtube.com/watch?v=t-iqt1b2qqk"
+        },
+        {
+            "id": 5,
+            "equipo": "Back End",
+            "titulo": "xxxxxxxxxxxxx",
+            "capa": "https://github.com/s-ol3/4lura-4luraflix/blob/main/public/img/back2.jpg",
+            "link": "https://www.youtube.com/watch?v=cLLKVd5CNLc"
+        },
+        {
+            "id": 6,
+            "equipo": "Back End",
+            "titulo": "xxxxxxxxxxxxx",
+            "capa": "https://github.com/s-ol3/4lura-4luraflix/blob/main/public/img/back3.jpg",
+            "link": "https://www.youtube.com/watch?v=EoPvlE85XAQ"
+        },
+        {
+            "id": 7,
+            "equipo": "Innovacion y Gestion",
+            "titulo": "xxxxxxxxxxxxx",
+            "capa": "https://github.com/s-ol3/4lura-4luraflix/blob/main/public/img/soft1.jpg",
+            "link": "https://www.youtube.com/watch?v=vhwspfvI52k&t=189s"
+        },
+        {
+            "id": 8,
+            "equipo": "Innovacion y Gestion",
+            "titulo": "xxxxxxxxxxxxx",
+            "capa": "https://github.com/s-ol3/4lura-4luraflix/blob/main/public/img/soft2.jpg",
+            "link": "https://www.youtube.com/watch?v=YhR7Zp8NUzE"
+        },
+        {
+            "id": 9,
+            "equipo": "Innovacion y Gestion",
+            "titulo": "xxxxxxxxxxxxx",
+            "capa": "https://github.com/s-ol3/4lura-4luraflix/blob/main/public/img/soft3.jpg",
+            "link": "https://www.youtube.com/watch?v=6N3OkLCfK-0"
+        }
+    ]
+}
