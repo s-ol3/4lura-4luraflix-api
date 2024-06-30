@@ -117,7 +117,7 @@
         "videoLink": "x",
         "videoImgLink": "https://raw.githubusercontent.com/s-ol3/4lura-4luraflix/main/public/img/soft3.jpg",
         "videoCategoria": "Pruebas",
-        "descripcion": "x",
+        "descripcion": "....",
         "id": 28
       }
     ],
@@ -142,7 +142,7 @@
       },
       {
         "categoriaNombre": "Pruebas",
-        "categoriaDescripcion": "e",
+        "categoriaDescripcion": "....",
         "categoriaColor": "#b3d312",
         "id": 4
       }
