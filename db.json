@@ -119,6 +119,14 @@
         "videoCategoria": "Pruebas",
         "descripcion": "....",
         "id": 28
+      },
+      {
+        "id": 29,
+        "titulo": "xxxxxxxxxxxxx",
+        "videoCategoria": "Innovación y Gestión",
+        "videoImgLink": "https://raw.githubusercontent.com/s-ol3/4lura-4luraflix/main/public/img/soft1.jpg",
+        "videoLink": "https://www.youtube.com/embed/vhwspfvI52k",
+        "descripcion": ""
       }
     ],
     "categorias": [
